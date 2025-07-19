@@ -1,13 +1,29 @@
-📚 JavaScript Fundamentals Practice 🚀
-This repository contains my topic-wise practice, problem-solving, and examples for revising core JavaScript fundamentals.
+# 📚 JavaScript Fundamentals Practice 🚀
 
-I'm practicing daily to strengthen my MERN stack core JavaScript knowledge through hands-on code.
+This repository contains my **topic-wise practice, problem-solving, and examples** for revising core **JavaScript fundamentals**.
 
-🔥 Why this repository?
-To build strong fundamental skills in JavaScript
+I'm practicing daily to strengthen my **MERN stack core JavaScript knowledge** through hands-on code.
 
-To develop professional GitHub habits
+---
 
-To keep all practice organized, clean, and searchable
+## 🔥 Why this Repository?
 
-To track my daily learning consistency
+- Build strong **fundamental skills in JavaScript**
+- Develop clean, **professional GitHub habits**
+- Keep all practice **organized, clean, and searchable**
+- Track my **daily learning consistency**
+
+---
+
+## 🛠️ Technologies
+- JavaScript (Core Fundamentals)
+- Git & GitHub
+
+---
+
+## 📌 Learning Style
+> **Practice → Problem Solving → Clean Push → Consistency**
+
+---
+
+## 🚀 Keep Practicing. Keep Improving.
